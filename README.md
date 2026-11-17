@@ -6,7 +6,7 @@
 
 ---
 
-**syn-os-edex** is the Svelte/TypeScript frontend shell for [Syn OS](https://github.com/tokunboajayi/syn-os) — a fully realized, sci-fi cyberpunk command center running in Electron (desktop) or the browser. Built on top of the eDEX-UI aesthetic, it integrates directly with the Syn OS backend for real-time AI, security, GIS, and device management.
+**syn-os-edex** is the Svelte/TypeScript frontend shell for [Syn OS](https://github.com/OlatokunboAjayi/syn-os) — a fully realized, sci-fi cyberpunk command center running in Electron (desktop) or the browser. Built on top of the eDEX-UI aesthetic, it integrates directly with the Syn OS backend for real-time AI, security, GIS, and device management.
 
 ---
 
@@ -102,11 +102,11 @@ syn-os-edex/
 
 ### Prerequisites
 - Node.js 18+
-- Running [Syn OS backend](https://github.com/tokunboajayi/syn-os) on port 8000
+- Running [Syn OS backend](https://github.com/OlatokunboAjayi/syn-os) on port 8000
 
 ### Development (browser)
 ```bash
-git clone https://github.com/tokunboajayi/syn-os-edex.git
+git clone https://github.com/OlatokunboAjayi/syn-os-edex.git
 cd syn-os-edex
 npm install
 npm run dev
@@ -149,7 +149,7 @@ Edit `synos.config.json` to point at your backend:
 
 ## 🔗 Related
 
-- **[syn-os](https://github.com/tokunboajayi/syn-os)** — Backend (Rust kernel + Python ML + FastAPI)
+- **[syn-os](https://github.com/OlatokunboAjayi/syn-os)** — Backend (Rust kernel + Python ML + FastAPI)
 
 ---
 
